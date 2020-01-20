@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "32.0.0",
+    "name": "twitter-clone",
+    "slug": "twitter-clone",
+    "version": "0.1.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
